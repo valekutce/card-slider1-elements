@@ -8,6 +8,7 @@
 }
 body{
     line-height: 1.5;
+    background-color: #fff;
 }
 .card-wrapper{
     max-width: 1100px;
